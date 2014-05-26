@@ -8,6 +8,7 @@ trabalhos-faculdade
 
 
 Instalar Xubuntu 14.04 64bits
+
 Servidor: 107.170.216.161
 
 
