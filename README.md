@@ -31,6 +31,8 @@ service vsftpd start
 ## Referências
 
 
+http://www.ducky-pond.com/posts/2013/Aug/install-an-ftp-server-on-rpi/
+
 https://help.ubuntu.com/community/vsftpd
 
 https://www.digitalocean.com/community/articles/how-to-set-up-vsftpd-on-ubuntu-12-04
