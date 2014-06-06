@@ -30,6 +30,7 @@ service vsftpd start
 
 ## Referências
 
+http://www.instructables.com/id/VSFTPD-Installation-Setup-on-Ubuntu/?ALLSTEPS
 
 http://www.ducky-pond.com/posts/2013/Aug/install-an-ftp-server-on-rpi/
 
